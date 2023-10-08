@@ -1,0 +1,107 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.menubar{
+    height: 10vh;
+    background-color: rgb(202, 195, 195);
+}
+.logo{
+    display: inline-block;
+    float: left;
+    margin-top: 12px;
+    margin-left: 15px;
+}
+.links{
+    display: inline-block;
+    float: right;
+    margin-top: 9px;
+    padding: 5px;
+    margin-right: 5px;
+    border-radius: 5px;
+}
+.logo img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.footer{
+    height: 39px;
+    background-color: rgb(202, 195, 195);
+    position: bottom;
+}
+#home{
+    background-color: rgb(208, 205, 202);
+}
+#home a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+#gallery{
+    background-color: rgb(208, 205, 202);
+}
+#gallery a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.rights{
+    color: rgb(0, 0, 0);
+}
+.rights p{
+    display: inline-block;
+    float: left;
+    margin-top: 10px;
+    margin-left: 8px;
+}
+.banner{
+    background-image: url(images/my\ world.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 1535px;
+    height: 626px;
+}
+.bannertext h1{
+    display: inline-block;
+    float: center;
+    margin-top: 120px;
+    margin-left: 150px;
+    font-size: 50px;
+}
+.bannertext p{
+    display: block;
+    float: center;
+    margin: 5px;
+    margin-left: 470px;
+}
+.bannertext span{
+    color: rgb(202, 83, 83);
+}
+.bannertext a{
+    background-color: rgb(138, 170, 230);
+    color: black;
+    text-decoration: none;
+    margin-left: 740px;
+    font-weight: bold;
+}
+.links2{
+    display: inline-block;
+    float: right;
+    border-radius: 50%;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.bannertext2 h1{
+    display: inline-block;
+    float: left;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.images img{
+    display: inline-block;
+    float: center;
+    margin-top: 150px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
